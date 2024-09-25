@@ -1,4 +1,4 @@
-But the fact is: A Plant Leaf Disease Detection System 🌱
+A Plant Leaf Disease Detection System 🌱
 
 -The aim of this project is to do an initial detection of plant diseases through the implementation of AI algorithms on early stages, which will help in achieving increased crop yield and quality resulting in agricultural sustainability. For classification of diseases from leaf images the system uses an already trained deep learning model ( ResNet50 ). It uses transfer learning to train on labelled dataset like PlantVillage for high accuracy disease diagnosis.
 
